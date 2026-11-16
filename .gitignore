@@ -1,0 +1,15 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Local configuration
+.env
+
+# Test and editor artifacts
+.pytest_cache/
+.vscode/
+
+# Unrelated side project
+gemini-overlay/
